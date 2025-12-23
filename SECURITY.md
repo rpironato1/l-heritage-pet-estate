@@ -12,7 +12,7 @@
 Se você descobrir uma vulnerabilidade de segurança, por favor:
 
 1. **NÃO** abra uma issue pública
-2. Envie um email para: security@turnbold.com
+2. Envie um email para: security@turnboldwt.com
 3. Inclua detalhes da vulnerabilidade
 4. Aguarde confirmação antes de divulgar
 
@@ -55,8 +55,8 @@ Content-Security-Policy: [configurado]
 
 ## Contato
 
-- **Email**: security@turnbold.com
-- **Website**: https://turnbold.com
+- **Email**: security@turnboldwt.com
+- **Website**: https://turnboldwt.com
 
 ---
 

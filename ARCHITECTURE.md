@@ -527,4 +527,4 @@ dist/
 
 **Documento mantido por:** Rodolfo Pironato @ TurnBold
 
-*Última atualização: Dezembro 2024*
+*Última atualização: Dezembro 2025*

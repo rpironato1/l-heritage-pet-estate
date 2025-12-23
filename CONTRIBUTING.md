@@ -262,7 +262,7 @@ pnpm run test
 Para dúvidas sobre contribuição:
 
 - Abra uma issue com a tag `question`
-- Entre em contato: contact@turnbold.com
+- Entre em contato: contact@turnboldwt.com
 
 ---
 

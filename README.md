@@ -429,11 +429,11 @@ perf: improve performance
 
 ### TurnBold
 
-**Digital Product Studio**
+**WT**
 
 *Transformamos ideias em produtos digitais de alto impacto.*
 
-[![Website](https://img.shields.io/badge/Website-turnbold.com-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://turnbold.com)
+[![Website](https://img.shields.io/badge/Website-turnboldwt.com-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://turnboldwt.com)
 
 <br />
 
@@ -452,7 +452,7 @@ perf: improve performance
 Este projeto é **proprietário e confidencial**.
 
 ```
-Copyright (c) 2024 TurnBold Digital Product Studio
+Copyright (c) 2025 TurnBold WT
 Todos os direitos reservados.
 
 O uso, cópia, modificação ou distribuição não autorizada
@@ -465,7 +465,7 @@ de qualquer parte do código ou design é estritamente proibida.
 
 **L'Héritage Pet Estate** — *Curadoria de Vida para o Extraordinário*
 
-Desenvolvido com dedicação por **[Rodolfo Pironato](https://github.com/rodolfopironato)** @ **[TurnBold](https://turnbold.com)**
+Desenvolvido com dedicação por **[Rodolfo Pironato](https://github.com/rpironato1)** @ **[TurnBold](https://turnboldwt.com)**
 
 <br />
 

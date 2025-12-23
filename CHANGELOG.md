@@ -7,7 +7,7 @@ e este projeto adere ao [Semantic Versioning](https://semver.org/lang/pt-BR/).
 
 ---
 
-## [1.0.0] - 2024-12-23
+## [1.0.0] - 2025-12-23
 
 ### Lançamento Inicial
 

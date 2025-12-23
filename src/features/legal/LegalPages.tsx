@@ -25,7 +25,7 @@ const LegalLayout: React.FC<LegalLayoutProps> = ({ title, date, children }) => (
 );
 
 export const TermsOfService: React.FC = () => (
-    <LegalLayout title="Termos de Serviço" date="12 de Outubro, 2024">
+    <LegalLayout title="Termos de Serviço" date="12 de Outubro, 2025">
         <p>
             <strong className="text-estate-900 text-xl block mb-2">1. Introdução</strong>
             Bem-vindo ao L'Héritage Pet Estate. Ao utilizar nossos serviços, instalações ou website, você concorda com estes termos, que regem a relação exclusiva entre o Estate e seus Membros. A excelência é nossa premissa, e a clareza é nossa obrigação.
@@ -46,7 +46,7 @@ export const TermsOfService: React.FC = () => (
 );
 
 export const PrivacyPolicy: React.FC = () => (
-    <LegalLayout title="Política de Privacidade" date="01 de Setembro, 2024">
+    <LegalLayout title="Política de Privacidade" date="01 de Setembro, 2025">
         <p>
             <strong className="text-estate-900 text-xl block mb-2">Compromisso com o Sigilo</strong>
             No L'Héritage, a privacidade dos nossos membros e de seus animais é sagrada. Esta política detalha como coletamos, usamos e protegemos suas informações pessoais com o mais alto nível de discrição e segurança cibernética.
@@ -63,7 +63,7 @@ export const PrivacyPolicy: React.FC = () => (
 );
 
 export const EthicsCode: React.FC = () => (
-    <LegalLayout title="Código de Ética" date="Jan 2024">
+    <LegalLayout title="Código de Ética" date="Jan 2025">
         <p>
             <strong className="text-estate-900 text-xl block mb-2">Filosofia</strong>
             Nossa filosofia é fundamentada no respeito absoluto à senciência animal. Tratamos cada hóspede não como um animal de estimação, mas como um indivíduo com preferências, limites, emoções e dignidade inalienável.

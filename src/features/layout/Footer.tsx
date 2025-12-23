@@ -46,7 +46,7 @@ export const Footer: React.FC<FooterProps> = ({ onNavigate }) => {
             
             <p className="font-sans text-xs md:text-sm text-white/40 leading-loose max-w-sm font-light">
               {BRAND.tagline} <br />
-              Redefinindo os padrões globais de cuidado animal desde 2024.
+              Redefinindo os padrões globais de cuidado animal desde 2025.
             </p>
           </div>
 
@@ -94,7 +94,7 @@ export const Footer: React.FC<FooterProps> = ({ onNavigate }) => {
 
         {/* 3. Bottom Bar */}
         <div className="flex flex-col md:flex-row justify-between items-center pt-12 mt-20 border-t border-white/5 text-white/20 text-[10px] font-sans uppercase tracking-[0.15em]">
-          <p>&copy; 2024 L'Héritage. Todos os direitos reservados.</p>
+          <p>&copy; 2025 L'Héritage. Todos os direitos reservados.</p>
           <div className="mt-6 md:mt-0 flex space-x-12">
             <a href="#" className="hover:text-gold-400 transition-colors">Instagram</a>
             <a href="#" className="hover:text-gold-400 transition-colors">LinkedIn</a>
