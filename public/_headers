@@ -1,0 +1,33 @@
+# L'Heritage Pet Estate - Cloudflare Headers
+
+# Security headers globais
+/*
+  X-Frame-Options: DENY
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
+  Permissions-Policy: camera=(), microphone=(), geolocation=()
+
+# Prevenir indexacao de *.pages.dev
+https://:project.pages.dev/*
+  X-Robots-Tag: noindex
+
+https://:version.:project.pages.dev/*
+  X-Robots-Tag: noindex
+
+# Cache agressivo para assets com hash
+/assets/*
+  Cache-Control: public, max-age=31536000, immutable
+
+# Cache moderado para imagens
+/*.png
+  Cache-Control: public, max-age=86400
+/*.jpg
+  Cache-Control: public, max-age=86400
+/*.svg
+  Cache-Control: public, max-age=86400
+/*.webp
+  Cache-Control: public, max-age=86400
+
+# Sem cache para HTML
+/index.html
+  Cache-Control: no-cache, no-store, must-revalidate
