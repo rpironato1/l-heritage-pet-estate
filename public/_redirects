@@ -1,2 +1,3 @@
-# SPA Fallback - todas as rotas servem index.html
-/*  /index.html  200
+# L'Heritage Pet Estate - Cloudflare Redirects
+# SPA routing is handled by wrangler.jsonc (not_found_handling: "single-page-application")
+# No additional redirects needed
