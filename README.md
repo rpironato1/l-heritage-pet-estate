@@ -76,13 +76,11 @@ Aplicação construída seguindo princípios de **Neuroarquitetura Digital**, on
 
 ## Demo
 
-### Screenshots
-
 <div align="center">
 
-| Desktop | Mobile |
-|---------|--------|
-| ![Desktop](https://via.placeholder.com/400x250/1A1F18/D4AF37?text=Desktop+View) | ![Mobile](https://via.placeholder.com/200x350/1A1F18/D4AF37?text=Mobile+View) |
+| Clique e acesse | 
+|---------|
+| [L'Héritage Pet Estate](https://l-heritage-pet-estate.rodolfopironato.workers.dev/) | 
 
 </div>
 
@@ -420,8 +418,8 @@ perf: improve performance
 **Senior Software Engineer & Digital Product Architect**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rodolfopironato)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rodolfopironato)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rodolfopironato.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rpironato1)
+
 
 <br />
 
